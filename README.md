@@ -1,7 +1,7 @@
-arduino
+Arduino
 =======
 
-Sketchs varios de Arduino mostrados en el blog http://fuenteabierta.teubi.co
+Difentes sketchs de Arduino mostrados en el blog http://fuenteabierta.teubi.co
 
 
 Sketchs en el repositorio
